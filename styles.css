@@ -23,6 +23,11 @@ li {
     font-size: 18px;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;  
+}
+
 #logo {
     margin-top: 20px;
     margin-right: auto;
