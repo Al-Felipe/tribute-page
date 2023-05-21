@@ -94,6 +94,7 @@ a {
 }
 
 .album-img img {
+    border-radius: 6px;
     width: 200px;
 }
 
